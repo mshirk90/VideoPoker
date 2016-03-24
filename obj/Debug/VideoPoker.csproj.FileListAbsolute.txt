@@ -1,0 +1,9 @@
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe.config
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\bin\Debug\VideoPoker.pdb
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.csprojResolveAssemblyReference.cache
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.frmTable.resources
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.Properties.Resources.resources
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.csproj.GenerateResource.Cache
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.exe
+c:\users\mshirk011938\documents\visual studio 2015\Projects\VideoPoker\VideoPoker\obj\Debug\VideoPoker.pdb
